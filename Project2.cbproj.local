@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.045,C:\Users\x\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\x\Desktop\Proiect\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\x\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,=C:\Users\x\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\x\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\x\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\x\Desktop\Proiect\PrimaFereastra.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,=C:\Users\x\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\x\Desktop\Proiect\Pion.cpp=C:\Users\x\Desktop\Proiect\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\x\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\x\Desktop\Proiect\PrimaFereastra.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\x\Desktop\Proiect\Intrebare.h=C:\Users\x\Desktop\Proiect\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\x\Desktop\Proiect\Intrebare.cpp=C:\Users\x\Desktop\Proiect\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,C:\Users\x\Desktop\Proiect\PionRosu.h=C:\Users\x\Desktop\Proiect\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,C:\Users\x\Desktop\Proiect\PionVerde.cpp=C:\Users\x\Desktop\Proiect\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,C:\Users\x\Desktop\Proiect\PionVerde.h=C:\Users\x\Desktop\Proiect\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\x\Desktop\Proiect\Intrebare.dfm=C:\Users\x\Desktop\Proiect\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,=C:\Users\x\Desktop\Proiect\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\x\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\x\Desktop\Proiect\PrimaFereastra.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,=C:\Users\x\Desktop\Proiect\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\x\Desktop\Proiect\Pion.h=C:\Users\x\Desktop\Proiect\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,C:\Users\x\Desktop\Proiect\PionRosu.cpp=C:\Users\x\Desktop\Proiect\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,C:\Users\x\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\x\Desktop\Proiect\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,=C:\Users\x\Desktop\Proiect\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,=C:\Users\x\Desktop\Proiect\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
